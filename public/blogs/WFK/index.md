@@ -1,6 +1,7 @@
 # 雾枫枯小站
 
 这是一个功能完整的前后端分离网站，包含题库测试、收藏夹管理、留言系统等功能。
+访问地址：http://www.wufengku.com、http://bj.wufengku.com
 
 ## 功能特性
 
