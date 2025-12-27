@@ -58,5 +58,145 @@
 			"视频"
 		],
 		"stars": 5
-	}
+	},
+	    {
+        "name": "智慧树",
+        "logo": "https://files.codelife.cc/icons/zhihuishu.svg",
+        "url": "https://www.zhihuishu.com/",
+        "description": "通识教育在线学习平台",
+        "tags": [
+            "学习工具"
+        ],
+        "stars": 4
+    },
+    {
+        "name": "中国大学MOOC",
+        "logo": "https://files.codelife.cc/icons/icourse163.svg",
+        "url": "https://www.icourse163.org/",
+        "description": "高校精品课程在线学习平台",
+        "tags": [
+            "学习工具"
+        ],
+        "stars": 3
+    },
+    {
+        "name": "FiF智慧教学平台",
+        "logo": "https://files.codelife.cc/website/5f7184d6aa121b0c2ac6a058.png",
+        "url": "https://www.fifedu.com/iplat/fifLogin/index.html?v=5.4.1",
+        "description": "外语智慧教学服务平台",
+        "tags": [
+            "学习工具"
+        ],
+        "stars": 2
+    },
+    {
+        "name": "WE learn",
+        "logo": "https://files.codelife.cc/icons/60b9f019ae5a9ba4024b4a5b.png",
+        "url": "https://welearn.sflep.com/2019/index.aspx",
+        "description": "外研社旗下在线学习平台",
+        "tags": [
+            "学习工具"
+        ],
+        "stars": 2
+    },
+    {
+        "name": "阿里云",
+        "logo": "https://files.codelife.cc/icons/aliyun.svg",
+        "url": "https://www.aliyun.com/",
+        "description": "云计算及人工智能服务平台",
+        "tags": [
+            "其他"
+        ],
+        "stars": 4
+    },
+    {
+        "name": "新网域名",
+        "logo": "https://files.codelife.cc/website/5af3ab618818b834bda69eef.png",
+        "url": "https://www.xinnet.com/",
+        "description": "域名注册与云服务平台",
+        "tags": [
+            "其他"
+        ],
+        "stars": 4
+    },
+    {
+        "name": "服务器后台",
+        "logo": "",
+        "url": "https://47.122.146.211:33580/f581b400",
+        "description": "服务器管理后台",
+        "tags": [
+            "网路工具"
+        ],
+        "stars": 4
+    },
+    {
+        "name": "路由器后台",
+        "logo": "",
+        "url": "http://192.168.123.1",
+        "description": "路由器管理后台",
+        "tags": [
+            "网路工具"
+        ],
+        "stars": 3
+    },
+    {
+        "name": "全国互联网安全管理服务平台",
+        "logo": "",
+        "url": "https://beian.mps.gov.cn/web/dashboard/home",
+        "description": "互联网安全备案管理平台",
+        "tags": [
+            "其他"
+        ],
+        "stars": 4
+    },
+    {
+        "name": "QQ邮箱",
+        "logo": "https://files.codelife.cc/icons/qq-mail.svg",
+        "url": "https://mail.qq.com/",
+        "description": "腾讯旗下电子邮箱服务",
+        "tags": [
+            "办公"
+        ],
+        "stars": 5
+    },
+    {
+        "name": "豆包-你的AI朋友",
+        "logo": "https://files.codelife.cc/icons/doubao.com.webp",
+        "url": "https://www.doubao.com?channel=itab2&source=hw_db_itab&type=tab&theme=wangzjh",
+        "description": "智能AI对话助手平台",
+        "tags": [
+            "AI"
+        ],
+        "stars": 5
+    },
+    {
+        "name": "DeepSeek",
+        "logo": "https://chat.deepseek.com/favicon.svg",
+        "url": "https://chat.deepseek.com/",
+        "description": "智能AI大模型对话平台",
+        "tags": [
+            "AI"
+        ],
+        "stars": 5
+    },
+    {
+        "name": "有道词典",
+        "logo": "https://files.codelife.cc/icons/dict.youdao.com.svg",
+        "url": "http://dict.youdao.com/",
+        "description": "多语种翻译词典工具",
+        "tags": [
+            "学习工具"
+        ],
+        "stars": 4
+    },
+    {
+        "name": "蓝奏云",
+        "logo": "https://files.codelife.cc/icons/lanzou.svg",
+        "url": "https://www.lanzou.com/",
+        "description": "文件存储与分享服务平台",
+        "tags": [
+            "其他"
+        ],
+        "stars": 3
+    }
 ]
