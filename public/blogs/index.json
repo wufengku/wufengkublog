@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "slug": "WFK",
+    "title": "题库抽题系统",
+    "tags": [
+      "Node.js",
+      "Express.js",
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "MySQL"
+    ],
+    "date": "2025-12-27T21:05",
+    "summary": "这是一个功能完整的前后端分离网站，包含题库测试、收藏夹管理、留言系统等功能。",
+    "cover": "/blogs/WFK/b9178f8ceb78067b.webp",
+    "hidden": false,
+    "category": "代码实现"
+  }
+]
