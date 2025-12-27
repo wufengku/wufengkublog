@@ -1,1 +1,14 @@
-[]
+[
+	{
+		"name": "题库刷题系统",
+		"year": 2025,
+		"image": "blob:https://dh.wufengku.com/3d0dfe15-0374-4fe2-a95f-29fbfbc336ce",
+		"url": "https://www.wufengku.com/",
+		"description": "简易的题库抽题刷题网站（需要注册才能使用）",
+		"tags": [
+			"学习",
+			"刷题",
+			"练习"
+		]
+	}
+]
