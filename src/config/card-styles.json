@@ -25,8 +25,8 @@
 		"enabled": true
 	},
 	"calendarCard": {
-		"width": 267,
-		"height": 413,
+		"width": 277,
+		"height": 460,
 		"order": 5,
 		"offsetX": 616,
 		"offsetY": -452,
@@ -37,8 +37,8 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 565,
-		"offsetY": 38,
+		"offsetX": 585,
+		"offsetY": 134,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -74,8 +74,8 @@
 		"enabled": true
 	},
 	"navCard": {
-		"width": 270,
-		"height": 416,
+		"width": 278,
+		"height": 487,
 		"order": 2,
 		"offsetX": -833,
 		"offsetY": -459,
