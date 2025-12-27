@@ -5,17 +5,24 @@
 		"username": "wufengku"
 	},
 	"theme": {
-		"colorBrand": "#2a48f3",
-		"colorPrimary": "#e6e8e8",
-		"colorSecondary": "#acadae",
-		"colorBrandSecondary": "#51d0b9",
-		"colorBg": "#0a051f",
-		"colorBorder": "#8a8a8a5e",
-		"colorCard": "#ffffff0e",
-		"colorArticle": "#6f6f6f33"
+		"colorBrand": "#ef6dd6",
+		"colorPrimary": "#53e5c8",
+		"colorSecondary": "#2e2f2fc8",
+		"colorBrandSecondary": "#f76ded",
+		"colorBg": "#eeeeee",
+		"colorBorder": "#a1a1a1",
+		"colorCard": "#f5eeee66",
+		"colorArticle": "#8debadcc"
 	},
 	"backgroundColors": [
-		"#16007b"
+		"#e661c9",
+		"#92972D",
+		"#50CE3C",
+		"#13DEE3",
+		"#05557F",
+		"#6CF20C",
+		"#54312A",
+		"#50F2BF"
 	],
 	"artImages": [
 		{
