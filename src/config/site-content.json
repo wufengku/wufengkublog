@@ -39,9 +39,25 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "0129261756a02cef",
+			"url": "/images/background/0129261756a02cef.webp"
+		},
+		{
+			"id": "ffd2d76b4982ce00",
+			"url": "/images/background/ffd2d76b4982ce00.jpg"
+		},
+		{
+			"id": "2a4c46b689999d29",
+			"url": "/images/background/2a4c46b689999d29.jpg"
+		},
+		{
+			"id": "2ebfae82bab4c75e",
+			"url": "/images/background/2ebfae82bab4c75e.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "0129261756a02cef",
 	"socialButtons": [
 		{
 			"id": "github",
