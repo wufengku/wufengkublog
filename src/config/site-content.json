@@ -1,8 +1,8 @@
 {
 	"meta": {
 		"title": "雾枫枯小站",
-		"description": "wufengku的个人博客，记录前端开发、探索、笔记。",
-		"username": "wufengku"
+		"description": "雾枫枯的个人博客，记录前端开发、探索、笔记。",
+		"username": "雾枫枯"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -72,7 +72,7 @@
 	"hatFlipped": false,
 	"enableChristmas": true,
 	"beian": {
-		"text": "豫ICP备2025138320号-1     豫公网安备41082202410898号",
+		"text": "豫ICP备2025138320号-1　　　　豫公网安备41082202410898号",
 		"link": "https://beian.miit.gov.cn/"
 	}
 }
