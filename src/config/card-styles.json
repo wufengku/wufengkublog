@@ -1,35 +1,35 @@
 {
 	"artCard": {
-		"width": 409,
-		"height": 203,
+		"width": 360,
+		"height": 200,
 		"order": 3,
-		"offsetX": -472,
-		"offsetY": -467,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"hiCard": {
-		"width": 751,
-		"height": 300,
+		"width": 360,
+		"height": 288,
 		"order": 1,
-		"offsetX": -379,
-		"offsetY": -219,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"clockCard": {
-		"width": 383,
-		"height": 199,
+		"width": 232,
+		"height": 132,
 		"offset": 92,
 		"order": 4,
-		"offsetX": 34,
-		"offsetY": -469,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"calendarCard": {
-		"width": 277,
-		"height": 460,
+		"width": 350,
+		"height": 286,
 		"order": 5,
-		"offsetX": 567,
-		"offsetY": -458,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"musicCard": {
@@ -37,48 +37,48 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 448,
-		"offsetY": 122,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"socialButtons": {
-		"width": 315,
-		"height": 48,
+		"width": 185,
+		"height": 50,
 		"order": 6,
-		"offsetX": null,
-		"offsetY": null,
-		"enabled": false
+		"offsetX": -101,
+		"offsetY": 173,
+		"enabled": true
 	},
 	"shareCard": {
-		"width": 229,
-		"height": 211,
+		"width": 200,
+		"height": 180,
 		"order": 7,
-		"offsetX": 52,
-		"offsetY": 125,
+		"offsetX": -142,
+		"offsetY": 265,
 		"enabled": true
 	},
 	"articleCard": {
-		"width": 231,
-		"height": 214,
+		"width": 266,
+		"height": 160,
 		"order": 8,
-		"offsetX": -282,
-		"offsetY": 124,
+		"offsetX": -444,
+		"offsetY": 171,
 		"enabled": true
 	},
 	"writeButtons": {
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": 488,
-		"offsetY": -518,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"navCard": {
-		"width": 278,
-		"height": 487,
+		"width": 280,
+		"height": 434,
 		"order": 2,
-		"offsetX": -833,
-		"offsetY": -459,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"likePosition": {
@@ -87,22 +87,22 @@
 		"order": 8,
 		"offsetX": null,
 		"offsetY": null,
-		"enabled": false
-	},
-	"hatCard": {
-		"width": 143,
-		"height": 123,
-		"order": 10,
-		"offsetX": -80,
-		"offsetY": -275,
 		"enabled": true
 	},
+	"hatCard": {
+		"width": 120,
+		"height": 120,
+		"order": 10,
+		"offsetX": null,
+		"offsetY": null,
+		"enabled": false
+	},
 	"beianCard": {
-		"width": 571,
-		"height": 50,
+		"width": 222,
+		"height": 56,
 		"order": 11,
-		"offsetX": -267,
-		"offsetY": 551,
+		"offsetX": 186,
+		"offsetY": 368,
 		"enabled": true
 	}
 }
